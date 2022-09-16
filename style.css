@@ -3,6 +3,9 @@
 body{
     background-color: blanchedalmond;
     font-family: 'Oxygen', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 .container{
     display: flex;
@@ -38,7 +41,7 @@ label{
     text-align: center;
     color:white;
     border-top-right-radius: 1rem;
-    margin-top: 1rem ;
+    margin-top: auto ;
     margin-left: 0rem;
     margin-right: 0rem;
 }
