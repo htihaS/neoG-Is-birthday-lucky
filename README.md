@@ -1,4 +1,8 @@
 # neoG-Is-birthday-lucky
+
+# HTML-CSS-JS
+
+
 A website which can help you to check whether your birthday is lucky or not.
 <br />
 Enter your birthday and lucky number and click on submit to know if your birthday is lucky or not
